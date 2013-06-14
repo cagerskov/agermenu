@@ -1,0 +1,40 @@
+               A Hacker's Guide to AgerMenu 
+          ======================================
+          (Some notes on AgerMenu internals.)
+
+                       2005-03-10
+
+
+Source Access
+=============
+AgerMenu is written in plain PHP and CSS so you have 
+directly access to the source code - just open it in your 
+favorite texteditor and hack away.
+
+Please send all hacks to  ca@chbs.dk  with "AgerMenu" 
+in the subject.
+
+Directory Layout
+----------------
+  +		     Most of the files (at the moment)
+  +-example          The AgerMenu Example Website
+    +-above           About the AgerMenu
+    +-css             Cascading Style Sheets to be used
+    +-inc             Included PHP scripts
+    +-subdir1         First subdirectory in the example
+      +-subsubdir1     First subdirectory in second level
+      +-subsubdir2     Second subdirectory in second level
+      +-subsubdir3     Third subdirectory in second level
+    +-subdir2         Second subdirectory in the example
+      +-subsubdir1     Fourth subdirectory in second level (not in use)
+      +-subsubdir2     Fifth subdirectory in second level (not in use)
+      +-subsubdir3     Sixth subdirectory in second level (not in use)
+    +-subdir3         Third subdirectory in the example
+      +-subsubdir1     Seventh subdirectory in second level (not in use)
+      +-subsubdir2     Eighth subdirectory in second level (not in use)
+      +-subsubdir3     Ninth subdirectory in second level (not in use)
+    +-subdir4         Fourth subdirectory in the example
+      +-subsubdir1     Tenth subdirectory in second level (not in use)
+      +-subsubdir2     Eleventh subdirectory in second level (not in use)
+      +-subsubdir3     Twelweth subdirectory in second level (not in use)
+

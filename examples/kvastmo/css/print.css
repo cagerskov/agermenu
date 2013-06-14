@@ -1,0 +1,118 @@
+@page {
+    size: auto;   /* auto is the initial value */
+    margin:23mm;
+}
+body {background:#ffffff;
+        color:#000000;
+        font-size:11.5pt;
+        font-family:serif;
+        margin:20mm;
+  }
+p {background:#ffffff;
+        color:#000000;
+        font-size:11.5pt;
+        font-family:serif;
+        margin-top:0;
+        margin-bottom:9pt;;
+  }
+h1     {background:#ffffff;
+        color:#000000;
+        font-size:26pt;
+        font-family:sans-serif;
+        margin-top:9pt;;
+        text-align:center;
+        margin-bottom:4pt;;
+  }
+h2     {background:#ffffff;
+        color:#000000;
+        font-size:18pt;
+        font-family:sans-serif;
+        margin-top:9pt;
+        margin-bottom:4pt;
+  }
+h3     {background:#ffffff;
+        color:#000000;
+        font-size:14pt;
+        font-family:sans-serif;
+        margin-top:9pt;
+        margin-bottom:4pt;
+  }
+h4     {background:#ffffff;
+        color:#000000;
+        font-weight:bold;
+        font-size:medium;
+        font-family:sans-serif; 
+        margin-top:9pt;
+        margin-bottom:4pt;
+  }
+ul,ol  {background:#ffffff;
+        color:#000000;
+        font-weight:bold;
+        font-size:11.5pt;
+        font-family:serif; 
+        margin-top:0pt;
+        margin-bottom:9pt;
+  }
+li     {background:#ffffff;
+        color:#000000;
+        font-size:11.5pt;
+        font-family:serif;
+  }
+
+pre {
+        font-family: monospace;
+        font-size:9pt;
+        background-color:#ffffff;
+        color:#000000;
+        margin:4pt;;
+  }
+
+a {
+         color:#333333;
+         text-decoration:underline;
+         background-color:#ffffff;
+  }
+
+table  {
+         border-collapse: collapse;
+         color:#000000;
+         background-color:#ffffff;
+         border: 1px solid #000000;
+  }
+th     {background:#ffffff;
+         color:#000000;
+         text-align:left;
+         padding:0;
+         border: 1px solid #000000;
+  }
+tr     {background:#ffffff;
+         color:#000000;
+         border: 1px  solid #000000;
+  }
+td     {background:#ffffff;
+         color:#000000;
+         padding:0;
+         border: 1px solid #000000;
+  }
+
+.mtable {background:#ffffff;
+         color:#000000;
+         padding:5px;
+         border: 0px #336633;
+  }
+.lmenu, .rmenu {display: none;
+  }
+.mainbody {
+  margin:23mm;
+  }
+.unvalid {
+  font-weight:bold;
+  background-color:#ffffff;
+  color:#000000;
+  }
+.xsmall {
+  font-size:9pt;
+  }
+.keywords {display: none;
+  }
+  

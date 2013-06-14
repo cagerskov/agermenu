@@ -1,0 +1,59 @@
+0.03 (2005-09-15)
+     - Removed the no comma in menu.csv bug in agermenu.func.php.
+
+     - Included the Kvastmo theme/example.
+
+     - Inserted comments in the HTML code like
+     
+         The menu is created using AgerMenu 0.03 
+	   http://www.chbs.dk/proj/agermenu/
+	 
+         AgerMenu 0.03 part 1 (CSS's) begin
+         AgerMenu 0.03 part 1 (CSS's) end
+         AgerMenu 0.03 part 2 (The menu) begin
+         AgerMenu 0.03 part 2 (The menu) end
+
+       so visitors can see that and where AgerMenu has been used if
+       they look at the HTML source code.
+
+     - Splitted the Cascading Style Sheet files css/print.css and 
+       css/screen.css in an AgerMenu part and a part for the normal 
+       style elements. All the AgerMenu related CSS elements start 
+       their name with "ager".
+
+     - Created an agermenu directory where the AgerMenu specific 
+       parts of the examples are placed.
+
+     - Removed the file inc/agermenu.func.php.0.01 which was a left 
+       over from version 0.01.
+
+0.02 (2005-07-21)
+     - Added the sytem variable sysvar_prog_date in the 
+       inc/top.inc.php PHP include file to contain the value of the 
+       release date of program. 
+       
+     - Changed the value of the sysvar_prog_version variable in the
+       inc/top.inc.php PHP include file so it only contains the 
+       version number and not the release date.
+
+     - Changed the footer in the PHP include file inc/bottom.inc.php 
+       so it still contains both the version and release date as 
+       version information.
+       
+     - Added a link to the AgerMenu homesite in the bottom at the 
+       menu (actually some code in the inc/top.inc.php PHP include 
+       file) to promote AgerMenu when users just copy and paste to 
+       get the menu to work.
+
+     - AgerMenu is now also used at the page(s):
+         - http://www.OpenDocument.dk/
+	 
+0.01 (2005-03-10)
+     - The first public release which was created as part of the 
+       danish accounting open source project SQLFinans: 
+       http://www.sqlfinans.dk/
+
+       The development site where AgerMenu was first used:
+       http://sqlfinans.chbs.dk/dev/0.40-ca/
+       
+       Claus Hougaard Bojer Agerskov - ca@chbs.dk

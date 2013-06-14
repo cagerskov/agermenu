@@ -1,0 +1,50 @@
+
+	               AgerMenu
+	            ---------------
+		        Version 0.03.01
+
+AgerMenu is a PHP menu generator based on Cascading Style Sheets, 
+the directory structure and menu.inc.csv files in each directory. 
+The HTML code supports W3C's HTML 4.01 and XHTML 1.0 specifications 
+
+AgerMenu is public domain so there is no restriction attached.
+
+It is also released under GNU Lesser General Public License and 
+GNU General Public License to be used directly in projects which 
+use one of these two licences.
+
+
+Installation
+------------
+
+Please read the file INSTALL!
+
+
+Documentation
+-------------
+
+Right now the only documentation are these files:
+
+AUTHORS            Who wrote what of the source code?
+COPYING            License and warranty
+Changelog          What has changed when?
+FAQ                Frequently Asked Questions
+HACKING            How can I contribute?
+INSTALL            How do I install it?
+README             This file
+TODO               Buglist and what is the plan for coming 
+                   releases
+agermenu.func.php  Commented source code
+
+
+Further information
+-------------------
+
+More information may be found at AgerMenu's 
+homepage:
+
+  http://www.agercon.dk/proj/agermenu/
+
+The most enjoyable greetings
+
+Claus Hougaard Bojer Agerskov <ca@agercon.dk>

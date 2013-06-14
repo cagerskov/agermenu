@@ -1,0 +1,14 @@
+#agermenu {display: none; }
+.agermenuitem {display: none;}
+a.agermenuitem:link {display: none;}
+a.agermenuitem:visited {display: none;}
+a.agermenuitem:hover {display: none;}
+a.agermenuitem:active {display: none;}
+a.agermenusubitem:link {display: none;}
+a.agermenusubitem:visited {display: none;}
+a.agermenusubitem:hover {display: none;}
+a.agermenusubitem:active {display: none;}
+a.agermenusubsubitem:link {display: none;}
+a.agermenusubsubitem:visited {display: none;}
+a.agermenusubsubitem:hover {display: none;}
+a.agermenusubsubitem:active {display: none;}
